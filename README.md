@@ -6,10 +6,10 @@
 
 ## 動作環境
 仮想環境上のUbuntuでの動作を確認しています。
-- ホスト：
-- windows10
+  ホスト：
+- OS: windows10
 - Virtual box 6.1
-ゲスト：
+  ゲスト：
 - OS: Ubuntu 20.04
 - ROS: noetic
 
