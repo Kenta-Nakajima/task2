@@ -35,8 +35,7 @@ rosrun task2 Block.py
 ```
 
 3. ゲームの開始
-
-ウィンドウConsoleの青色のつまみにカーソルを合わせてドラッグすると、ウィンドウBlockにボールが表示されてゲームが開始します。
+  ウィンドウConsoleの青色のつまみにカーソルを合わせてドラッグすると、ウィンドウBlockにボールが表示されてゲームが開始します。
 
 ## LICENSE
 [COPYING](https://github.com/Kenta-Nakajima/task2/blob/main/COPYING)
