@@ -6,9 +6,9 @@ ROSを利用したブロック崩しのゲームです。<br>
 
 ## 動作環境
 仮想環境上のUbuntuでの動作を確認しています。
-1. ホスト：<br>
-- OS: windows10
-- Virtual box 6.1
+- ホスト：<br>
+  - OS: windows10
+  - Virtual box 6.1
 2. ゲスト：<br>
 - OS: Ubuntu 20.04
 - ROS: noetic
