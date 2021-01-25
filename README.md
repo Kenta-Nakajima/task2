@@ -9,9 +9,9 @@ ROSを利用したブロック崩しのゲームです。<br>
 - ホスト：<br>
   - OS: windows10
   - Virtual box 6.1
-2. ゲスト：<br>
-- OS: Ubuntu 20.04
-- ROS: noetic
+- ゲスト：<br>
+  - OS: Ubuntu 20.04
+  - ROS: noetic
 
 ## 環境構築
 ```
