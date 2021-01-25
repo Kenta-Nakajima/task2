@@ -1,5 +1,9 @@
 import numpy as np
 
+"""
+Block.pyの関数が置いてあるファイル
+"""
+
 ### オブジェクト探索関数
 def serching(Serch_img, Serching_size):
         
@@ -309,8 +313,3 @@ def Check_obj(target, Object_table, current_h, current_w): ## 個数
                     h = h-1
         
         return h, w
-
-
-
-
-
