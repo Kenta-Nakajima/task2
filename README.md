@@ -34,7 +34,7 @@ rosrun task2 Console.py
 rosrun task2 Block.py
 ```
 
-3. ゲームの開始
+3. ゲームの開始<br>
   ウィンドウConsoleの青色のつまみにカーソルを合わせてドラッグすると、ウィンドウBlockにボールが表示されてゲームが開始します。
 
 ## LICENSE
