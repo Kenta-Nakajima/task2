@@ -1,7 +1,7 @@
 import numpy as np
 
 """
-Block.pyの関数が置いてあるファイル
+Block.pyで使う関数が置いてあるファイル
 """
 
 ### オブジェクト探索関数
