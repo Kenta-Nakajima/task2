@@ -16,7 +16,7 @@
 ## 環境構築
 ```
 cd ~/catkin_ws/src
-git clone https:..
+git clone https://github.com/Kenta-Nakajima/task2.git
 cd ~/catkin_ws
 catkin_make
 ```
@@ -35,6 +35,7 @@ rosrun task2 Block.py
 ```
 
 3. ゲームの開始
+
 ウィンドウConsoleの青色のつまみにカーソルを合わせてドラッグすると、ウィンドウBlockにボールが表示されてゲームが開始します。
 
 ## LICENSE
