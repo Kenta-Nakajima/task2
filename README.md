@@ -45,7 +45,7 @@ rosrun task2 Block.py
   ボールを落とすとConsoleウィンドウの"Remaining number of times"欄の数値が減少します。この値が0になるとゲームオーバーです。<br>
   欄内に"Game over"と表示されてゲームが終了します。
 
--[動画](https://www.youtube.com/watch?v=XHZcsVWpJyM&feature=youtu.be)
+- [動画](https://www.youtube.com/watch?v=XHZcsVWpJyM&feature=youtu.be)
 
 ## LICENSE
 [COPYING](https://github.com/Kenta-Nakajima/task2/blob/main/COPYING)
